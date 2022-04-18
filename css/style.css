@@ -3,6 +3,7 @@
 }
 
 .bg-blue {
-    background-color: blue;
+    /* This is to provide a default background.
+    background-color: blue; */
     color: white;
 }
